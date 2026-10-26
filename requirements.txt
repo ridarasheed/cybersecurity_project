@@ -1,0 +1,13 @@
+# PhishGuard AI – Python dependencies
+# ------------------------------------
+# Install all packages with:
+#     pip install -r requirements.txt
+#
+# Only third-party packages are listed here.
+# Python built-in modules (re, etc.) do not need to be installed.
+
+# Web application framework
+streamlit>=1.35.0
+
+# Interactive charts (donut + bar charts on the dashboard)
+plotly>=5.20.0
